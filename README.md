@@ -30,7 +30,7 @@ Welcome to my GitHub. I'm a student and aspiring software developer who enjoys e
 ![Git](https://img.shields.io/badge/-Git-333?style=flat\&logo=git)
 ![Vite](https://img.shields.io/badge/-Vite-333?style=flat\&logo=vite)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333?style=flat\&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)
 
 ---
 
